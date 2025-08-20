@@ -1,5 +1,7 @@
 ## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hiimanshu028)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hiimanshu028&theme=gotham)](https://git.io/streak-stats)
 <!--
 **hiimanshu028/hiimanshu028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
